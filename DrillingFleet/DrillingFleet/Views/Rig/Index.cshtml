@@ -1,0 +1,88 @@
+﻿@model IEnumerable<DrillingFleet.Models.RigDetailVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RigName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RigType.RigTypeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RigWaterDepth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RigDrillingDepth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RigManager.RigManagerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentLocation.RegionName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentLocation.Country.CountryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentBlockOrWell)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentLocationStartDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentLocationEndDate)
+        </th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RigName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RigType.RigTypeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RigWaterDepth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RigDrillingDepth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RigManager.RigManagerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentLocation.RegionName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentLocation.Country.CountryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentBlockOrWell)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentLocationStartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentLocationEndDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.RigDetailId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.RigDetailId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.RigDetailId })
+        </td>
+    </tr>
+    }
+
+</table>

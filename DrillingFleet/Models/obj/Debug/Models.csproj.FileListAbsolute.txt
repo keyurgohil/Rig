@@ -1,0 +1,6 @@
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\bin\Debug\Models.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\bin\Debug\Models.pdb
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\obj\Debug\Models.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\Models\obj\Debug\Models.pdb

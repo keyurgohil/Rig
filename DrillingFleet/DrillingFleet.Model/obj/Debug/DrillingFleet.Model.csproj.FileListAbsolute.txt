@@ -1,0 +1,5 @@
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\DrillingFleet.Model\bin\Debug\DrillingFleet.Model.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\DrillingFleet.Model\bin\Debug\DrillingFleet.Model.pdb
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\DrillingFleet.Model\obj\Debug\DrillingFleet.Model.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\DrillingFleet.Model\obj\Debug\DrillingFleet.Model.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\DrillingFleet.Model\obj\Debug\DrillingFleet.Model.pdb

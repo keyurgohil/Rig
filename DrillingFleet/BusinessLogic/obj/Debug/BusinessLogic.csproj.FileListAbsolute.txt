@@ -1,0 +1,12 @@
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\baps\Desktop\RIG\Deliverable 3 – C# Class\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\baps\Desktop\Orignal_RIG\RIG\Deliverable 3 - 4\DrillingFleet\BusinessLogic\obj\Debug\BusinessLogic.pdb
